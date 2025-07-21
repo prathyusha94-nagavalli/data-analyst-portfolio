@@ -1,20 +1,16 @@
-# SQL Scripts Portfolio
+# Prathyusha’s Data Analyst Portfolio
 
-This folder contains real-world SQL scripts based on my professional experience. Each file demonstrates how I’ve applied SQL for data wrangling, transformation, pattern recognition, and business insight.
+Hi! I'm Prathyusha Nagavalli, a Senior Data Analyst with 8+ years of experience in transforming raw data into strategic insights.
 
-## Contents
+## 📂 Contents
+- [`sql-scripts/`](./sql-scripts) – Real-world SQL scenarios using product, BOM, and employee datasets
+- More folders (Power BI, dashboards, case studies) coming soon
 
-### 🔧 Product & BOM Data Analysis
-- **bom_cost_breakdown.sql**: Aggregates material cost, waste, and usage by product
-- **bom_product_transformations.sql**: Joins product and BOM data to build unified view
+## 💡 What This Portfolio Shows
+- Strong SQL skills: window functions, joins, data wrangling
+- Analytical thinking: practical problems with business logic
+- Interview readiness: realistic use cases you can ask me about
 
-### 📊 Employee Data Scenarios (LeetCode-style)
-- **employee_window_functions.sql**: Shows usage of ROW_NUMBER, RANK, and PARTITION BY
-- **employee_join_cleaning.sql**: Cleans employee and department data using CTEs and JOINS
-
-## Tools Used
-- SQL (Snowflake-style)
-- CTEs, Window Functions, CASE, Aggregation, Filtering
-
-## How to Use
-Each script is standalone and designed for recruiters or engineers to understand my SQL fluency in real-world scenarios.
+## 🔗 Let’s Connect
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nprathyusha/)
+- 📧 Prathyusha.Nagavalli@gmail.com
